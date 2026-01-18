@@ -1,4 +1,4 @@
-# 💫 HELLO!! I am Aradhya Agrawal:- 
+# HELLO!!💫 I am Aradhya Agrawal:- 
 🔭 I’m currently working on WEB2 development. I am also building my way into blockchain and WEB3 technologies. <br>👯 I am looking to collaborate on the development of WEB2 and WEB3<br>🤝 Looking for well-versed people to guide me into WEB3, Artificial Intelligence and Machine Learning. <br>🌱 I’m currently learning Javascript, Solidity, CSS3 and Python. <br>💬 Ask me about how to bounce back after burnouts and how to find your way without appropriate guidance. <br>⚡ I'm just a coder with a lot of enthusiasm. <br><br>Feel free to reach out for collaboration! 
 
 
